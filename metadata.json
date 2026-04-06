@@ -1,0 +1,5 @@
+{
+  "name": "Rectangle Equation Solver",
+  "description": "A tool for solving equations using the rectangle method with a natural math input interface.",
+  "requestFramePermissions": []
+}
